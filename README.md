@@ -13,4 +13,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2383-add-two-integers](https://github.com/Jothi-Sri-K/Leetcode/tree/master/2383-add-two-integers) |
+## Database
+|  |
+| ------- |
+| [1153-product-sales-analysis-i](https://github.com/Jothi-Sri-K/Leetcode/tree/master/1153-product-sales-analysis-i) |
 <!---LeetCode Topics End-->
