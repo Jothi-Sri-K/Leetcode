@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1161-project-employees-i](https://github.com/Jothi-Sri-K/Leetcode/tree/master/1161-project-employees-i) |
 | [1664-find-users-with-valid-e-mails](https://github.com/Jothi-Sri-K/Leetcode/tree/master/1664-find-users-with-valid-e-mails) |
 | [2024-calculate-special-bonus](https://github.com/Jothi-Sri-K/Leetcode/tree/master/2024-calculate-special-bonus) |
+| [2041-the-latest-login-in-2020](https://github.com/Jothi-Sri-K/Leetcode/tree/master/2041-the-latest-login-in-2020) |
 | [3782-find-valid-emails](https://github.com/Jothi-Sri-K/Leetcode/tree/master/3782-find-valid-emails) |
 | [3803-find-products-with-valid-serial-numbers](https://github.com/Jothi-Sri-K/Leetcode/tree/master/3803-find-products-with-valid-serial-numbers) |
 ## Sorting
