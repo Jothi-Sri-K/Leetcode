@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/Jothi-Sri-K/Leetcode/tree/master/0043-multiply-strings) |
 | [0292-nim-game](https://github.com/Jothi-Sri-K/Leetcode/tree/master/0292-nim-game) |
 | [0367-valid-perfect-square](https://github.com/Jothi-Sri-K/Leetcode/tree/master/0367-valid-perfect-square) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/Jothi-Sri-K/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Jothi-Sri-K/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [2383-add-two-integers](https://github.com/Jothi-Sri-K/Leetcode/tree/master/2383-add-two-integers) |
 ## Database
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Jothi-Sri-K/Leetcode/tree/master/0043-multiply-strings) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/Jothi-Sri-K/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 ## Simulation
 |  |
 | ------- |
@@ -55,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/Jothi-Sri-K/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0476-number-complement](https://github.com/Jothi-Sri-K/Leetcode/tree/master/0476-number-complement) |
 ## Binary Search
 |  |
