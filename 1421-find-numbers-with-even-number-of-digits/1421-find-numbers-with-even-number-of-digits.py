@@ -3,9 +3,7 @@ class Solution:
         count=0
         
         for num in nums:
-            number_of_digits=0
-            for digit in str(num):
-                number_of_digits+=1
+            number_of_digits=len(str(num))
             if number_of_digits%2==0:
                 count+=1
         return count
