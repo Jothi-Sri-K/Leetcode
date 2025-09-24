@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-find-lucky-integer-in-an-array](https://github.com/Jothi-Sri-K/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Jothi-Sri-K/Leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Jothi-Sri-K/Leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
+| [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Jothi-Sri-K/Leetcode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/Jothi-Sri-K/Leetcode/tree/master/2876-number-of-employees-who-met-the-target) |
 | [3226-minimum-number-game](https://github.com/Jothi-Sri-K/Leetcode/tree/master/3226-minimum-number-game) |
 ## Hash Table
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/Jothi-Sri-K/Leetcode/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 | [2383-add-two-integers](https://github.com/Jothi-Sri-K/Leetcode/tree/master/2383-add-two-integers) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/Jothi-Sri-K/Leetcode/tree/master/2608-count-the-digits-that-divide-a-number) |
+| [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Jothi-Sri-K/Leetcode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 ## Database
 |  |
 | ------- |
