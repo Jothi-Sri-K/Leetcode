@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0184-department-highest-salary](https://github.com/Jothi-Sri-K/Leetcode/tree/master/0184-department-highest-salary) |
 | [1153-product-sales-analysis-i](https://github.com/Jothi-Sri-K/Leetcode/tree/master/1153-product-sales-analysis-i) |
 | [1161-project-employees-i](https://github.com/Jothi-Sri-K/Leetcode/tree/master/1161-project-employees-i) |
+| [1245-user-activity-for-the-past-30-days-i](https://github.com/Jothi-Sri-K/Leetcode/tree/master/1245-user-activity-for-the-past-30-days-i) |
 | [1462-list-the-products-ordered-in-a-period](https://github.com/Jothi-Sri-K/Leetcode/tree/master/1462-list-the-products-ordered-in-a-period) |
 | [1664-find-users-with-valid-e-mails](https://github.com/Jothi-Sri-K/Leetcode/tree/master/1664-find-users-with-valid-e-mails) |
 | [1801-average-time-of-process-per-machine](https://github.com/Jothi-Sri-K/Leetcode/tree/master/1801-average-time-of-process-per-machine) |
