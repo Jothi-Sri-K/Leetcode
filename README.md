@@ -103,9 +103,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0086-partition-list](https://github.com/Jothi-Sri-K/Leetcode/tree/master/0086-partition-list) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Jothi-Sri-K/Leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [3226-minimum-number-game](https://github.com/Jothi-Sri-K/Leetcode/tree/master/3226-minimum-number-game) |
+## Linked List
+|  |
+| ------- |
+| [0086-partition-list](https://github.com/Jothi-Sri-K/Leetcode/tree/master/0086-partition-list) |
 <!---LeetCode Topics End-->
