@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1161-project-employees-i](https://github.com/Jothi-Sri-K/Leetcode/tree/master/1161-project-employees-i) |
 | [1245-user-activity-for-the-past-30-days-i](https://github.com/Jothi-Sri-K/Leetcode/tree/master/1245-user-activity-for-the-past-30-days-i) |
 | [1462-list-the-products-ordered-in-a-period](https://github.com/Jothi-Sri-K/Leetcode/tree/master/1462-list-the-products-ordered-in-a-period) |
+| [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Jothi-Sri-K/Leetcode/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1664-find-users-with-valid-e-mails](https://github.com/Jothi-Sri-K/Leetcode/tree/master/1664-find-users-with-valid-e-mails) |
 | [1801-average-time-of-process-per-machine](https://github.com/Jothi-Sri-K/Leetcode/tree/master/1801-average-time-of-process-per-machine) |
 | [2024-calculate-special-bonus](https://github.com/Jothi-Sri-K/Leetcode/tree/master/2024-calculate-special-bonus) |
