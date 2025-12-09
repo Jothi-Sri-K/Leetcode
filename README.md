@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Jothi-Sri-K/Leetcode/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/Jothi-Sri-K/Leetcode/tree/master/0011-container-with-most-water) |
 | [0053-maximum-subarray](https://github.com/Jothi-Sri-K/Leetcode/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/Jothi-Sri-K/Leetcode/tree/master/0056-merge-intervals) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Jothi-Sri-K/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Jothi-Sri-K/Leetcode/tree/master/0011-container-with-most-water) |
 | [0086-partition-list](https://github.com/Jothi-Sri-K/Leetcode/tree/master/0086-partition-list) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Jothi-Sri-K/Leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 ## Heap (Priority Queue)
@@ -125,4 +127,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/Jothi-Sri-K/Leetcode/tree/master/0053-maximum-subarray) |
 | [0097-interleaving-string](https://github.com/Jothi-Sri-K/Leetcode/tree/master/0097-interleaving-string) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/Jothi-Sri-K/Leetcode/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
