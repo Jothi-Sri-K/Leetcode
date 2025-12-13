@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1153-product-sales-analysis-i](https://github.com/Jothi-Sri-K/Leetcode/tree/master/1153-product-sales-analysis-i) |
 | [1161-project-employees-i](https://github.com/Jothi-Sri-K/Leetcode/tree/master/1161-project-employees-i) |
 | [1245-user-activity-for-the-past-30-days-i](https://github.com/Jothi-Sri-K/Leetcode/tree/master/1245-user-activity-for-the-past-30-days-i) |
+| [1251-average-selling-price](https://github.com/Jothi-Sri-K/Leetcode/tree/master/1251-average-selling-price) |
 | [1327-list-the-products-ordered-in-a-period](https://github.com/Jothi-Sri-K/Leetcode/tree/master/1327-list-the-products-ordered-in-a-period) |
 | [1462-list-the-products-ordered-in-a-period](https://github.com/Jothi-Sri-K/Leetcode/tree/master/1462-list-the-products-ordered-in-a-period) |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Jothi-Sri-K/Leetcode/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
