@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Jothi-Sri-K/Leetcode/tree/master/0011-container-with-most-water) |
 | [0053-maximum-subarray](https://github.com/Jothi-Sri-K/Leetcode/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/Jothi-Sri-K/Leetcode/tree/master/0056-merge-intervals) |
+| [0560-subarray-sum-equals-k](https://github.com/Jothi-Sri-K/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Jothi-Sri-K/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0724-find-pivot-index](https://github.com/Jothi-Sri-K/Leetcode/tree/master/0724-find-pivot-index) |
 | [0819-most-common-word](https://github.com/Jothi-Sri-K/Leetcode/tree/master/0819-most-common-word) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Jothi-Sri-K/Leetcode/tree/master/0001-two-sum) |
+| [0560-subarray-sum-equals-k](https://github.com/Jothi-Sri-K/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0819-most-common-word](https://github.com/Jothi-Sri-K/Leetcode/tree/master/0819-most-common-word) |
 | [1297-maximum-number-of-balloons](https://github.com/Jothi-Sri-K/Leetcode/tree/master/1297-maximum-number-of-balloons) |
 | [1319-unique-number-of-occurrences](https://github.com/Jothi-Sri-K/Leetcode/tree/master/1319-unique-number-of-occurrences) |
@@ -139,5 +141,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/Jothi-Sri-K/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Jothi-Sri-K/Leetcode/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
