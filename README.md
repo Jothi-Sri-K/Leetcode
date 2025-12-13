@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Jothi-Sri-K/Leetcode/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/Jothi-Sri-K/Leetcode/tree/master/0056-merge-intervals) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Jothi-Sri-K/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0724-find-pivot-index](https://github.com/Jothi-Sri-K/Leetcode/tree/master/0724-find-pivot-index) |
 | [0819-most-common-word](https://github.com/Jothi-Sri-K/Leetcode/tree/master/0819-most-common-word) |
 | [1319-unique-number-of-occurrences](https://github.com/Jothi-Sri-K/Leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Jothi-Sri-K/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -135,4 +136,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Jothi-Sri-K/Leetcode/tree/master/0011-container-with-most-water) |
+## Prefix Sum
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/Jothi-Sri-K/Leetcode/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
