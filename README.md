@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/Jothi-Sri-K/Leetcode/tree/master/0043-multiply-strings) |
 | [0292-nim-game](https://github.com/Jothi-Sri-K/Leetcode/tree/master/0292-nim-game) |
 | [0367-valid-perfect-square](https://github.com/Jothi-Sri-K/Leetcode/tree/master/0367-valid-perfect-square) |
+| [0371-sum-of-two-integers](https://github.com/Jothi-Sri-K/Leetcode/tree/master/0371-sum-of-two-integers) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Jothi-Sri-K/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0504-base-7](https://github.com/Jothi-Sri-K/Leetcode/tree/master/0504-base-7) |
 | [0507-perfect-number](https://github.com/Jothi-Sri-K/Leetcode/tree/master/0507-perfect-number) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0371-sum-of-two-integers](https://github.com/Jothi-Sri-K/Leetcode/tree/master/0371-sum-of-two-integers) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Jothi-Sri-K/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0476-number-complement](https://github.com/Jothi-Sri-K/Leetcode/tree/master/0476-number-complement) |
 ## Binary Search
