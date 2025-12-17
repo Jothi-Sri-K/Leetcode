@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0086-partition-list](https://github.com/Jothi-Sri-K/Leetcode/tree/master/0086-partition-list) |
+| [0206-reverse-linked-list](https://github.com/Jothi-Sri-K/Leetcode/tree/master/0206-reverse-linked-list) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -150,4 +151,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Jothi-Sri-K/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Jothi-Sri-K/Leetcode/tree/master/0724-find-pivot-index) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Jothi-Sri-K/Leetcode/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
