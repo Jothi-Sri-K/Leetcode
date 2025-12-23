@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/Jothi-Sri-K/Leetcode/tree/master/0371-sum-of-two-integers) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Jothi-Sri-K/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0476-number-complement](https://github.com/Jothi-Sri-K/Leetcode/tree/master/0476-number-complement) |
+| [0693-binary-number-with-alternating-bits](https://github.com/Jothi-Sri-K/Leetcode/tree/master/0693-binary-number-with-alternating-bits) |
 ## Binary Search
 |  |
 | ------- |
