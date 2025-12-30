@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Jothi-Sri-K/Leetcode/tree/master/0011-container-with-most-water) |
 | [0053-maximum-subarray](https://github.com/Jothi-Sri-K/Leetcode/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/Jothi-Sri-K/Leetcode/tree/master/0056-merge-intervals) |
+| [0074-search-a-2d-matrix](https://github.com/Jothi-Sri-K/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0238-product-of-array-except-self](https://github.com/Jothi-Sri-K/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Jothi-Sri-K/Leetcode/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/Jothi-Sri-K/Leetcode/tree/master/0414-third-maximum-number) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/Jothi-Sri-K/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0268-missing-number](https://github.com/Jothi-Sri-K/Leetcode/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/Jothi-Sri-K/Leetcode/tree/master/0367-valid-perfect-square) |
 ## Counting
@@ -171,4 +173,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Jothi-Sri-K/Leetcode/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/Jothi-Sri-K/Leetcode/tree/master/0206-reverse-linked-list) |
+## Matrix
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/Jothi-Sri-K/Leetcode/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
