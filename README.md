@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Jothi-Sri-K/Leetcode/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/Jothi-Sri-K/Leetcode/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/Jothi-Sri-K/Leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0136-single-number](https://github.com/Jothi-Sri-K/Leetcode/tree/master/0136-single-number) |
 | [0238-product-of-array-except-self](https://github.com/Jothi-Sri-K/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Jothi-Sri-K/Leetcode/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/Jothi-Sri-K/Leetcode/tree/master/0414-third-maximum-number) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/Jothi-Sri-K/Leetcode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Jothi-Sri-K/Leetcode/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/Jothi-Sri-K/Leetcode/tree/master/0371-sum-of-two-integers) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Jothi-Sri-K/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
