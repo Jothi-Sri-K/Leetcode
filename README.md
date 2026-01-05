@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Jothi-Sri-K/Leetcode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Jothi-Sri-K/Leetcode/tree/master/0011-container-with-most-water) |
+| [0048-rotate-image](https://github.com/Jothi-Sri-K/Leetcode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Jothi-Sri-K/Leetcode/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/Jothi-Sri-K/Leetcode/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/Jothi-Sri-K/Leetcode/tree/master/0074-search-a-2d-matrix) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Jothi-Sri-K/Leetcode/tree/master/0002-add-two-numbers) |
 | [0043-multiply-strings](https://github.com/Jothi-Sri-K/Leetcode/tree/master/0043-multiply-strings) |
+| [0048-rotate-image](https://github.com/Jothi-Sri-K/Leetcode/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/Jothi-Sri-K/Leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Jothi-Sri-K/Leetcode/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/Jothi-Sri-K/Leetcode/tree/master/0292-nim-game) |
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Jothi-Sri-K/Leetcode/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/Jothi-Sri-K/Leetcode/tree/master/0074-search-a-2d-matrix) |
 ## Stack
 |  |
