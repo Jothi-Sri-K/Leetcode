@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/Jothi-Sri-K/Leetcode/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Jothi-Sri-K/Leetcode/tree/master/0724-find-pivot-index) |
 | [0819-most-common-word](https://github.com/Jothi-Sri-K/Leetcode/tree/master/0819-most-common-word) |
+| [0875-koko-eating-bananas](https://github.com/Jothi-Sri-K/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [1319-unique-number-of-occurrences](https://github.com/Jothi-Sri-K/Leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Jothi-Sri-K/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Jothi-Sri-K/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Jothi-Sri-K/Leetcode/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/Jothi-Sri-K/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0704-binary-search](https://github.com/Jothi-Sri-K/Leetcode/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/Jothi-Sri-K/Leetcode/tree/master/0875-koko-eating-bananas) |
 ## Counting
 |  |
 | ------- |
