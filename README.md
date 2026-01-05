@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/Jothi-Sri-K/Leetcode/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/Jothi-Sri-K/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0136-single-number](https://github.com/Jothi-Sri-K/Leetcode/tree/master/0136-single-number) |
+| [0189-rotate-array](https://github.com/Jothi-Sri-K/Leetcode/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/Jothi-Sri-K/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Jothi-Sri-K/Leetcode/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/Jothi-Sri-K/Leetcode/tree/master/0414-third-maximum-number) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Jothi-Sri-K/Leetcode/tree/master/0002-add-two-numbers) |
 | [0043-multiply-strings](https://github.com/Jothi-Sri-K/Leetcode/tree/master/0043-multiply-strings) |
+| [0189-rotate-array](https://github.com/Jothi-Sri-K/Leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Jothi-Sri-K/Leetcode/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/Jothi-Sri-K/Leetcode/tree/master/0292-nim-game) |
 | [0367-valid-perfect-square](https://github.com/Jothi-Sri-K/Leetcode/tree/master/0367-valid-perfect-square) |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Jothi-Sri-K/Leetcode/tree/master/0011-container-with-most-water) |
 | [0086-partition-list](https://github.com/Jothi-Sri-K/Leetcode/tree/master/0086-partition-list) |
 | [0125-valid-palindrome](https://github.com/Jothi-Sri-K/Leetcode/tree/master/0125-valid-palindrome) |
+| [0189-rotate-array](https://github.com/Jothi-Sri-K/Leetcode/tree/master/0189-rotate-array) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Jothi-Sri-K/Leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 ## Heap (Priority Queue)
 |  |
