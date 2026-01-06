@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Jothi-Sri-K/Leetcode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Jothi-Sri-K/Leetcode/tree/master/0011-container-with-most-water) |
+| [0042-trapping-rain-water](https://github.com/Jothi-Sri-K/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/Jothi-Sri-K/Leetcode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Jothi-Sri-K/Leetcode/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/Jothi-Sri-K/Leetcode/tree/master/0056-merge-intervals) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Jothi-Sri-K/Leetcode/tree/master/0011-container-with-most-water) |
+| [0042-trapping-rain-water](https://github.com/Jothi-Sri-K/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0086-partition-list](https://github.com/Jothi-Sri-K/Leetcode/tree/master/0086-partition-list) |
 | [0125-valid-palindrome](https://github.com/Jothi-Sri-K/Leetcode/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/Jothi-Sri-K/Leetcode/tree/master/0189-rotate-array) |
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Jothi-Sri-K/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Jothi-Sri-K/Leetcode/tree/master/0053-maximum-subarray) |
 | [0097-interleaving-string](https://github.com/Jothi-Sri-K/Leetcode/tree/master/0097-interleaving-string) |
 ## Greedy
@@ -196,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Jothi-Sri-K/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Jothi-Sri-K/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 ## Tree
 |  |
@@ -213,4 +217,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Jothi-Sri-K/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Jothi-Sri-K/Leetcode/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
