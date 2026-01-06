@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Jothi-Sri-K/Leetcode/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/Jothi-Sri-K/Leetcode/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/Jothi-Sri-K/Leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0075-sort-colors](https://github.com/Jothi-Sri-K/Leetcode/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/Jothi-Sri-K/Leetcode/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/Jothi-Sri-K/Leetcode/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/Jothi-Sri-K/Leetcode/tree/master/0238-product-of-array-except-self) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/Jothi-Sri-K/Leetcode/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/Jothi-Sri-K/Leetcode/tree/master/0075-sort-colors) |
 | [0268-missing-number](https://github.com/Jothi-Sri-K/Leetcode/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/Jothi-Sri-K/Leetcode/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Jothi-Sri-K/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Jothi-Sri-K/Leetcode/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/Jothi-Sri-K/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0075-sort-colors](https://github.com/Jothi-Sri-K/Leetcode/tree/master/0075-sort-colors) |
 | [0086-partition-list](https://github.com/Jothi-Sri-K/Leetcode/tree/master/0086-partition-list) |
 | [0125-valid-palindrome](https://github.com/Jothi-Sri-K/Leetcode/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/Jothi-Sri-K/Leetcode/tree/master/0189-rotate-array) |
