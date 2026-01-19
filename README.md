@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Jothi-Sri-K/Leetcode/tree/master/0733-flood-fill) |
 | [0819-most-common-word](https://github.com/Jothi-Sri-K/Leetcode/tree/master/0819-most-common-word) |
 | [0875-koko-eating-bananas](https://github.com/Jothi-Sri-K/Leetcode/tree/master/0875-koko-eating-bananas) |
+| [0904-fruit-into-baskets](https://github.com/Jothi-Sri-K/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [1319-unique-number-of-occurrences](https://github.com/Jothi-Sri-K/Leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Jothi-Sri-K/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Jothi-Sri-K/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/Jothi-Sri-K/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Jothi-Sri-K/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0819-most-common-word](https://github.com/Jothi-Sri-K/Leetcode/tree/master/0819-most-common-word) |
+| [0904-fruit-into-baskets](https://github.com/Jothi-Sri-K/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [1297-maximum-number-of-balloons](https://github.com/Jothi-Sri-K/Leetcode/tree/master/1297-maximum-number-of-balloons) |
 | [1319-unique-number-of-occurrences](https://github.com/Jothi-Sri-K/Leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Jothi-Sri-K/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -242,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0904-fruit-into-baskets](https://github.com/Jothi-Sri-K/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Jothi-Sri-K/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Breadth-First Search
 |  |
