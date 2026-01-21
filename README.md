@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/Jothi-Sri-K/Leetcode/tree/master/0043-multiply-strings) |
 | [0097-interleaving-string](https://github.com/Jothi-Sri-K/Leetcode/tree/master/0097-interleaving-string) |
 | [0125-valid-palindrome](https://github.com/Jothi-Sri-K/Leetcode/tree/master/0125-valid-palindrome) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Jothi-Sri-K/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Jothi-Sri-K/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Jothi-Sri-K/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0504-base-7](https://github.com/Jothi-Sri-K/Leetcode/tree/master/0504-base-7) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0086-partition-list](https://github.com/Jothi-Sri-K/Leetcode/tree/master/0086-partition-list) |
 | [0125-valid-palindrome](https://github.com/Jothi-Sri-K/Leetcode/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/Jothi-Sri-K/Leetcode/tree/master/0189-rotate-array) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Jothi-Sri-K/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Jothi-Sri-K/Leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 ## Heap (Priority Queue)
 |  |
