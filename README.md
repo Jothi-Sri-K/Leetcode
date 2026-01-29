@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Jothi-Sri-K/Leetcode/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/Jothi-Sri-K/Leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Jothi-Sri-K/Leetcode/tree/master/0137-single-number-ii) |
+| [0152-maximum-product-subarray](https://github.com/Jothi-Sri-K/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Jothi-Sri-K/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0189-rotate-array](https://github.com/Jothi-Sri-K/Leetcode/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Jothi-Sri-K/Leetcode/tree/master/0198-house-robber) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Jothi-Sri-K/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Jothi-Sri-K/Leetcode/tree/master/0053-maximum-subarray) |
 | [0097-interleaving-string](https://github.com/Jothi-Sri-K/Leetcode/tree/master/0097-interleaving-string) |
+| [0152-maximum-product-subarray](https://github.com/Jothi-Sri-K/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Jothi-Sri-K/Leetcode/tree/master/0198-house-robber) |
 | [0509-fibonacci-number](https://github.com/Jothi-Sri-K/Leetcode/tree/master/0509-fibonacci-number) |
 ## Greedy
