@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0819-most-common-word](https://github.com/Jothi-Sri-K/Leetcode/tree/master/0819-most-common-word) |
 | [0875-koko-eating-bananas](https://github.com/Jothi-Sri-K/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/Jothi-Sri-K/Leetcode/tree/master/0904-fruit-into-baskets) |
+| [0929-unique-email-addresses](https://github.com/Jothi-Sri-K/Leetcode/tree/master/0929-unique-email-addresses) |
 | [1319-unique-number-of-occurrences](https://github.com/Jothi-Sri-K/Leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Jothi-Sri-K/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Jothi-Sri-K/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Jothi-Sri-K/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0819-most-common-word](https://github.com/Jothi-Sri-K/Leetcode/tree/master/0819-most-common-word) |
 | [0904-fruit-into-baskets](https://github.com/Jothi-Sri-K/Leetcode/tree/master/0904-fruit-into-baskets) |
+| [0929-unique-email-addresses](https://github.com/Jothi-Sri-K/Leetcode/tree/master/0929-unique-email-addresses) |
 | [1297-maximum-number-of-balloons](https://github.com/Jothi-Sri-K/Leetcode/tree/master/1297-maximum-number-of-balloons) |
 | [1319-unique-number-of-occurrences](https://github.com/Jothi-Sri-K/Leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Jothi-Sri-K/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Jothi-Sri-K/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0504-base-7](https://github.com/Jothi-Sri-K/Leetcode/tree/master/0504-base-7) |
 | [0819-most-common-word](https://github.com/Jothi-Sri-K/Leetcode/tree/master/0819-most-common-word) |
+| [0929-unique-email-addresses](https://github.com/Jothi-Sri-K/Leetcode/tree/master/0929-unique-email-addresses) |
 | [1297-maximum-number-of-balloons](https://github.com/Jothi-Sri-K/Leetcode/tree/master/1297-maximum-number-of-balloons) |
 | [1332-remove-palindromic-subsequences](https://github.com/Jothi-Sri-K/Leetcode/tree/master/1332-remove-palindromic-subsequences) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Jothi-Sri-K/Leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
