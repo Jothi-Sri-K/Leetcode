@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0929-unique-email-addresses](https://github.com/Jothi-Sri-K/Leetcode/tree/master/0929-unique-email-addresses) |
 | [1297-maximum-number-of-balloons](https://github.com/Jothi-Sri-K/Leetcode/tree/master/1297-maximum-number-of-balloons) |
 | [1332-remove-palindromic-subsequences](https://github.com/Jothi-Sri-K/Leetcode/tree/master/1332-remove-palindromic-subsequences) |
+| [2193-minimum-number-of-moves-to-make-palindrome](https://github.com/Jothi-Sri-K/Leetcode/tree/master/2193-minimum-number-of-moves-to-make-palindrome) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Jothi-Sri-K/Leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Jothi-Sri-K/Leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2942-find-words-containing-character](https://github.com/Jothi-Sri-K/Leetcode/tree/master/2942-find-words-containing-character) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/Jothi-Sri-K/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0455-assign-cookies](https://github.com/Jothi-Sri-K/Leetcode/tree/master/0455-assign-cookies) |
 | [1332-remove-palindromic-subsequences](https://github.com/Jothi-Sri-K/Leetcode/tree/master/1332-remove-palindromic-subsequences) |
+| [2193-minimum-number-of-moves-to-make-palindrome](https://github.com/Jothi-Sri-K/Leetcode/tree/master/2193-minimum-number-of-moves-to-make-palindrome) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Jothi-Sri-K/Leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 ## Heap (Priority Queue)
 |  |
@@ -223,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Jothi-Sri-K/Leetcode/tree/master/0011-container-with-most-water) |
 | [0455-assign-cookies](https://github.com/Jothi-Sri-K/Leetcode/tree/master/0455-assign-cookies) |
+| [2193-minimum-number-of-moves-to-make-palindrome](https://github.com/Jothi-Sri-K/Leetcode/tree/master/2193-minimum-number-of-moves-to-make-palindrome) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -299,4 +302,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Jothi-Sri-K/Leetcode/tree/master/0509-fibonacci-number) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2193-minimum-number-of-moves-to-make-palindrome](https://github.com/Jothi-Sri-K/Leetcode/tree/master/2193-minimum-number-of-moves-to-make-palindrome) |
 <!---LeetCode Topics End-->
